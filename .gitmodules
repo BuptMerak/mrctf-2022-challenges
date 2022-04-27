@@ -1,3 +1,24 @@
 [submodule "web/eki"]
 	path = web/eki
 	url = https://github.com/EkiXu/My-CTF-Challenge
+[submodule "re/lleavesG"]
+	path = re/lleavesG
+	url = https://github.com/LLeavesG/MRCTF2022-Stuuuuub
+[submodule "web/nama"]
+	path = web/nama
+	url = https://github.com/nama769/MRCTF2022-Hurry_up
+[submodule "re/jameshoi"]
+	path = re/jameshoi
+	url = https://github.com/JamesHoi/old-nes
+[submodule "pwn/ayoung"]
+	path = pwn/ayoung
+	url = https://github.com/aYoung-CS/MRCTF2022_ezbash
+[submodule "re/veltavid"]
+	path = re/veltavid
+	url = https://github.com/veltavid/MRCTF2022
+[submodule "crypto/lordriot"]
+	path = crypto/lordriot
+	url = https://github.com/Lord-Riot/LordRiot-check
+[submodule "web/ibukifalling"]
+	path = web/ibukifalling
+	url = https://github.com/Ibukifalling/my-ctf-challenge
